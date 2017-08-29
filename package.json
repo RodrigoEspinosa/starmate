@@ -1,0 +1,23 @@
+{
+  "name": "starmate",
+  "version": "0.0.1",
+  "description": "Start comparasion for GitHub projects",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "@vx/gradient": "^0.0.136",
+    "@vx/shape": "^0.0.136",
+    "@vx/tooltip": "^0.0.137",
+    "isomorphic-fetch": "^2.2.1",
+    "next": "^3.0.6",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "styled-components": "^2.1.2"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^1.1.7"
+  }
+}
