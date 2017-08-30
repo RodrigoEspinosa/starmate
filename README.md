@@ -8,9 +8,7 @@ Compare between unlimited (not exactly) amount of Github projects by their stars
 
 ---
 
-![**Please keep in mind...** that this is nothing more than a stupid comparison
-that people like me, somethings & for reasons unknown, like to use.](https://user-images.githubusercontent.com/1685621/29803286-13af1ee4-8c51-11e7-96c2-480e311f7da8.png)
-
+**Please keep in mind...** that this is nothing more than a stupid comparison that people like me, sometimes & for reasons unknown, like to use.
 
 ---
 

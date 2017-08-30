@@ -19,7 +19,7 @@ const IndexPage = () =>
       <br />
       that this is nothing more than a <u>stupid</u>
       {' '}
-      comparasion that people like me, somethings & for reasons unknown,
+      comparison that people like me, sometimes & for reasons unknown,
       {' '}
       like to use.
 
